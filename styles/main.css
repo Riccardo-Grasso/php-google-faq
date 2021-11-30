@@ -14,7 +14,9 @@
 .fs-title-small {
     font-size: 18px;
 }
-
+.fs-paragraph {
+    font-size: 14px;
+}
 /*******/
 .row-1 {
     height: 65px;
@@ -24,7 +26,7 @@
     height: 100%;
 }
 
-.privacy {
+.privacy {/*  */
     text-decoration: none;
 }
 .my-navbar {
@@ -47,4 +49,8 @@
     color: #3367d6!important;
     border-bottom: 3px solid #3367d6;
     padding-bottom: 8px;
+}
+
+.container a {
+    text-decoration: none;
 }
