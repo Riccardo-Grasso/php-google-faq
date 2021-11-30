@@ -136,6 +136,27 @@ $database = [
             ?>
         </div>
     </main>
+
+    <footer>
+        <div class="container h-100 d-flex align-items-center justify-content-between">
+            <div class="left-container d-flex align-items-center">
+                <ul class="d-flex align-items-center">
+                    <li><a href="#">Google</a></li>
+                    <li><a href="#">Tutto su Google</a></li>
+                    <li><a href="#">Privacy</a></li>
+                    <li><a href="#">Termini</a></li>
+                </ul>
+            </div>
+            <div class="right-container d-flex align-items-center">
+                <select class="form-select" aria-label="Default select example">
+                    <option value="1" selected>Italiano</option>
+                    <option value="2">Inglese</option>
+                    <option value="3">Spagnolo</option>
+                </select>
+            </div>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 
 </html>
