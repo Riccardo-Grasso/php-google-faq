@@ -1,0 +1,39 @@
+/**** UTILITY ****/
+.fs-22 {
+    font-size: 22px;
+}
+.fs-15 {
+    font-size: 15px;
+}
+.text-grey {
+    color: #5f6368;
+}
+
+/*******/
+.row-1 {
+    height: 65px;
+}
+
+.logo {
+    height: 100%;
+}
+
+.privacy {
+    text-decoration: none;
+}
+.my-navbar {
+    height: 15px;
+}
+.pages-list {
+    list-style-type: none;
+}
+
+.pages-list {
+    padding: 0;
+}
+.pages-list li a{
+    text-decoration: none;
+    color: #5f6368;
+    font-weight: 500;
+    padding-right: 15px;
+}
