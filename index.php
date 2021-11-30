@@ -41,7 +41,7 @@ $navLinks
             <div class="row-2 d-flex">
                 <nav class="my-navbar">
                     <ul class="pages-list d-flex text-grey fs-15">
-                        <li class="page ps-2">
+                        <li class="page ms-2">
                             <a href="#">Introduzione</a>
                         </li>
                         <li class="page">
@@ -54,7 +54,7 @@ $navLinks
                             <a href="#">Tecnologie</a>
                         </li>
                         <li class="page">
-                            <a href="#">Domande frequenti</a>
+                            <a href="#" class="nav-active">Domande frequenti </a>
                         </li>
                     </ul>
                 </nav>

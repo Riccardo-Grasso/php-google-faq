@@ -35,5 +35,10 @@
     text-decoration: none;
     color: #5f6368;
     font-weight: 500;
-    padding-right: 15px;
+    margin-right: 15px;
+}
+.nav-active {
+    color: #3367d6!important;
+    border-bottom: 3px solid #3367d6;
+    padding-bottom: 8px;
 }
